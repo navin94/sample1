@@ -1,6 +1,6 @@
 <?php
 	/* 
-		AbanteCart Admin API curl test 
+		mountbees Admin API curl test 
 
 		Developer: Pavel Rojkov (projkov@abantecart.com)	
 	
